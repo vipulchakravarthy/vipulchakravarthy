@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vipul Chakravarthy</h1>
 <h3 align="center">Passionate Full stack developer who loves to solve real-world problems.</h3>
 
-- 🔭 I’m currently working on [react](https://github.com/vipulchakravarthy/react)
+- 🔭 I’m currently working on [common-ui-elements](https://github.com/vipulchakravarthy/common-ui-elements)
 
 - 👨‍💻 All of my projects are available at [https://vipulchakravarthy.netlify.app/](https://vipulchakravarthy.netlify.app/)
 
-- 💬 Ask me about **react, react-native, java-script, java, python**
+- 💬 Ask me about **react, react-native, java-script, java, python, firebase**
 
 - 📫 How to reach me **vipulchakravarthy.r@gmail.com**
 
