@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipulchakravarthy&label=Profile%20views&color=0e75b6&style=flat" alt="vipulchakravarthy" /> </p>
 
-- 🔭 I’m currently working on [Peana](https://github.com/PeanaLLC/Peanaproj)
+- 🔭 I’m currently working on [BrowserStack](https://github.com/browserstack) products
 
 - 👨‍💻 All of my projects are available at [https://vipulchakravarthy.netlify.app/](https://vipulchakravarthy.netlify.app/)
 
