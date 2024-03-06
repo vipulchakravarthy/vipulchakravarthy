@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://vipulchakravarthy.netlify.app/](https://vipulchakravarthy.netlify.app/)
 
-- 💬 Ask me about **react, react-native, java-script, java, python**
+- 💬 Ask me about **react, react-native, javascript, ruby-on-rails, java, python**
 
 - 📫 How to reach me **vipulchakravarthy.r@gmail.com**
 
