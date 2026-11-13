@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipulchakravarthy&label=Profile%20views&color=0e75b6&style=flat" alt="vipulchakravarthy" /> </p>
 
-- 🔭 Currently working on [BrowserStack](https://github.com/browserstack) products
+- 🔭 Currently working on Microsoft Copilot agents
 
 - 💬 Ask me about **react, react-native, javascript, ruby-on-rails, java, python**
 
